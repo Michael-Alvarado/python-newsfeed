@@ -21,6 +21,8 @@
   ## Usage
   
   Visit https://py-just-tech.herokuapp.com/ to use this app.
+  ![Screenshot](./assets/images/JTN-Screenshot.png)
+  
 
   ## License
   
